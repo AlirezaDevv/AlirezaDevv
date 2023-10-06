@@ -1,4 +1,4 @@
-i am AlirezA a junior front-end developer
+i am AlirezA a developer
 
 you can see my mini projects with html & css & JavaScript in my repositories
 
